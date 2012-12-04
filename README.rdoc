@@ -1,0 +1,3 @@
+== Konacha Sample
+
+Exemplo de teste de JavaScript usando Konacha
